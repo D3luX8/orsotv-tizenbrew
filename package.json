@@ -1,0 +1,8 @@
+{
+  "name": "orsotv-tizenbrew",
+  "version": "0.0.1",
+  "packageType": "app",
+  "appName": "OrsoTV",
+  "appPath": "index.html",
+  "keys": ["ColorF0Red", "ColorF1Green", "MediaPlay", "MediaPause"]
+}
